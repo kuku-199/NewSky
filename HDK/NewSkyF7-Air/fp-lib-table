@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "NewSkyF7-Air")(type "KiCad")(uri "${KIPRJMOD}/NewSkyF7-Air.pretty")(options "")(descr ""))
-)
