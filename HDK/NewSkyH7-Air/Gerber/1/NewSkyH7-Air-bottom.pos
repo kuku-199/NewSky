@@ -1,0 +1,62 @@
+### Footprint positions - created on 2024-10-26T15:24:31+0800 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                                           PosX       PosY       Rot  Side
+C3        100nF              C_0402_1005Metric                             139.5900   -98.2900   90.0000  bottom
+C4        2.2uF              C_0402_1005Metric                             145.1400   -99.8200    0.0000  bottom
+C5        2.2uF              C_0402_1005Metric                             145.5800  -101.2000  -90.0000  bottom
+C6        1uF                C_0402_1005Metric                             143.2700  -100.3300  -90.0000  bottom
+C7        1uF                C_0402_1005Metric                             139.5400  -102.3800  -90.0000  bottom
+C8        100nF              C_0402_1005Metric                             138.6200  -102.3800  -90.0000  bottom
+C9        4.7uF              C_0402_1005Metric                             141.5800  -100.3300  -90.0000  bottom
+C18       10uF               C_0603_1608Metric                             128.2350  -110.9300    0.0000  bottom
+C19       10uF               C_0603_1608Metric                             128.2250  -109.4600    0.0000  bottom
+C20       10uF               C_0603_1608Metric                             132.0300   -89.4900  180.0000  bottom
+C21       100nF              C_0402_1005Metric                             128.1300  -108.2000    0.0000  bottom
+C22       10uF               C_0603_1608Metric                             132.0300   -90.9700  180.0000  bottom
+C23       100nF              C_0402_1005Metric                             132.4000   -92.1600  180.0000  bottom
+C25       100nF              C_0402_1005Metric                             127.6800  -102.7800   90.0000  bottom
+C26       100nF              C_0402_1005Metric                             134.3500   -98.2300  -90.0000  bottom
+C27       100nF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   130.2400  -104.7600  -90.0000  bottom
+C28       100nF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   130.5700   -95.6900   90.0000  bottom
+C31       22uF               C_0603_1608Metric                             131.9100  -110.2500    0.0000  bottom
+C32       22uF               C_0603_1608Metric                             129.5550   -98.8500  180.0000  bottom
+C34       22uF               C_0603_1608Metric                             134.8800  -110.2600  180.0000  bottom
+C35       22uF               C_0603_1608Metric                             126.5950   -98.8600    0.0000  bottom
+C37       100nF              C_0402_1005Metric                             151.1500  -107.7500  180.0000  bottom
+C40       100nF              C_0402_1005Metric                             150.1600  -110.8500   90.0000  bottom
+C42       100nF              C_0402_1005Metric                             148.8000  -110.8500   90.0000  bottom
+C43       100nF              C_0402_1005Metric                             142.4400  -100.3300  -90.0000  bottom
+C44       100nF              C_0402_1005Metric                             139.0900  -103.7500    0.0000  bottom
+C45       100nF              C_0402_1005Metric                             139.4700   -96.7800    0.0000  bottom
+D1        LESD3Z5.0CMT1G     D_SOD-323                                     131.9975  -111.9300  180.0000  bottom
+D2        LESD3Z5.0CMT1G     D_SOD-323                                     127.8925  -100.5600  180.0000  bottom
+D5        1N4148W            D_SOD-123                                     134.6100   -87.4500    0.0000  bottom
+FB1       1K_100M            L_0402_1005Metric                             137.6900  -102.4000   90.0000  bottom
+IC4       MP9943GQ-Z         MP9943GQZ                                     128.1150  -105.6600  -90.0000  bottom
+IC5       MP9943GQ-Z         MP9943GQZ                                     132.6900   -94.8100   90.0000  bottom
+J2        Input              SH1.0mm_8P                                    142.2800   -86.3567    0.0000  bottom
+J9        Conn_01x06_Socket  JST_SM06B-SRSS-TB(LF)(SN)                     142.6400  -112.2000  180.0000  bottom
+L2        L                  L_Sunlord_MWSA0402S                           133.0900  -106.5800  -90.0000  bottom
+L3        L                  L_Sunlord_MWSA0402S                           127.6900   -95.2400  -90.0000  bottom
+R1        10K                R_0402_1005Metric                             142.2200   -98.7600  180.0000  bottom
+R2        10K                R_0402_1005Metric                             139.5900  -100.1300   90.0000  bottom
+R3        10K                R_0402_1005Metric                             144.6500  -101.2200   90.0000  bottom
+R6        100K               R_0402_1005Metric                             126.7100  -102.7500   90.0000  bottom
+R7        100K               R_0402_1005Metric                             133.4100   -98.2400   90.0000  bottom
+R8        100K               R_0402_1005Metric                             132.4600   -98.2300   90.0000  bottom
+R12       22R                R_0402_1005Metric                             129.9100  -103.1900    0.0000  bottom
+R13       51K                R_0402_1005Metric                             134.8400   -96.3700  -90.0000  bottom
+R14       22R                R_0402_1005Metric                             131.0400   -97.2600  180.0000  bottom
+R16       7.68K              R_0402_1005Metric                             135.7900   -96.3600   90.0000  bottom
+R18       41.2K              R_0402_1005Metric                             135.3000   -98.2400  -90.0000  bottom
+R19       10K                R_0402_1005Metric                             136.5800   -89.1500  180.0000  bottom
+R20       1K                 R_0402_1005Metric                             134.7200   -89.1500  180.0000  bottom
+R21       3.3K               R_0402_1005Metric                             157.9700  -110.1600  180.0000  bottom
+R28       1K                 R_0402_1005Metric                             147.5800  -110.8500   90.0000  bottom
+R31       1k                 R_0402_1005Metric                             157.9700  -107.8600  180.0000  bottom
+R32       1k                 R_0402_1005Metric                             157.9700  -109.0100  180.0000  bottom
+RN1       22R                R_Array_Concave_4x0402                        142.2800   -88.3100   90.0000  bottom
+RN2       22R                R_Array_Concave_4x0402                        149.9200   -86.2000   90.0000  bottom
+## End
